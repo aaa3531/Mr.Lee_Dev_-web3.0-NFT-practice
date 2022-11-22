@@ -1,0 +1,9 @@
+ds_contracts/node_modules
+ds_contracts/coverage
+ds_contracts/coverage.json
+ds_contracts/typechain
+ds_contracts/typechain-types
+
+#Hardhat files
+ds_contracts/cache
+
